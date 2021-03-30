@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoungKoungKim
 - 👀 I’m interested in back-end development and devops
-- 🌱 I’m currently learning nodeJs
+- 🌱 I’m currently learning nodejs
 - 📫 How to reach me 0koung.kim@gmail.com
 
 <!---
